@@ -54,6 +54,13 @@ This project analyzes supply chain logistics data using Microsoft Excel. It demo
 - Data Visualization
 - Business Analysis
 
+ Project Outcome
+
+- Built an interactive Excel dashboard for supply chain analysis.
+- Identified supplier performance and market-wise order value.
+- Analyzed customer satisfaction trends.
+- Presented business insights using Pivot Tables, Charts, and Slicers.
+
  👩‍💻 Author
 
     Deepa R
